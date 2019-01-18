@@ -36,7 +36,7 @@ class Solution {
             node2 = node2?.next
 
         }
-        if (carry == 1) head?.add1(ListNode(carry))
+        if (carry == 1) head.add1(ListNode(carry))
 
         return head.next
 
