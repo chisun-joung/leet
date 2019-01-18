@@ -22,12 +22,33 @@ package longestsubstring
 
 class Solution {
     fun lengthOfLongestSubstring(s: String): Int {
+        var max = 0
+        var i = 0
+        var j = 0
+        var mset = mutableSetOf<Char>()
+        if (s.length > 0) {
+            max = 1
+        }
+        while ( i < (s.length-1)){
+            j = 1
+            mset.clear()
+            while (s[i] != s[i+j]){
+                if(!mset.add(s[i+j]))
+                    break
+                if((++j + i) == s.length) break
 
-
-        return 0
+            }
+            if( max < j ) max = j
+            i++
+            if ((i+max) >= s.length) i = s.length
+        }
+        return max
     }
 }
 
 fun main(args: Array<String>) {
 
+    val s = "kwwkew"
+
+    println(Solution().lengthOfLongestSubstring(s))
 }
