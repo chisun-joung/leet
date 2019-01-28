@@ -19,6 +19,6 @@ package prob7
 
 class Solution {
     fun reverse(x: Int): Int {
-
+        return 0
     }
 }
