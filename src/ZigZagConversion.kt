@@ -32,13 +32,14 @@ class Solution {
 
         var result  = StringBuilder()
         var index = 0
-        val width = numRows + numRows - 3
+        var width = 2*numRows - 3
+        if (width < 0) width = 0
         for ( i in 0 until numRows) {
             index = i
+            var step = width - (2*i-1)
             while (index < s.length){
                 result.append(s[index])
                 if ( i != 0 && i != (numRows-1)) {
-                    var step = width - i
                     if (index + step < s.length)
                         result.append(s[index + step])
                 }
@@ -54,5 +55,5 @@ class Solution {
 
 
 fun main() {
-    println(Solution().convert("PAYPALISHIRING",4))
+    println(Solution().convert("AAVCSD",3))
 }
