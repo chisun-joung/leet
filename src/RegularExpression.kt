@@ -1,5 +1,8 @@
 package prob10
 
+import org.junit.Test
+import kotlin.test.assertEquals
+
 
 //Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'.
 //
@@ -48,7 +51,14 @@ package prob10
 
 class Solution {
     fun isMatch(s: String, p: String): Boolean {
-        return false
+
+        return p == s
+    }
+}
+
+class Tests {
+    @Test fun simpleMatch() {
+        assertEquals(true, Solution().isMatch("a","a"))
     }
 }
 

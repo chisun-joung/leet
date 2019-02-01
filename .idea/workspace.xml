@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21a071a6-3db5-4b5a-b01c-61a17f7de9b2" name="Default Changelist" comment="zigzag pass all no1....">
-      <change afterPath="$PROJECT_DIR$/src/PalindromeNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZigZag2.kt" afterDir="false" />
+    <list default="true" id="21a071a6-3db5-4b5a-b01c-61a17f7de9b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZigZagConversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZigZagConversion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegularExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegularExpression.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,27 +48,27 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="java" value="2" />
-          <entry key="kt" value="17" />
+          <entry key="kt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
-          <entry key="Kotlin" value="17" />
+          <entry key="Kotlin" value="18" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="12" />
-          <entry key="kt" value="4888" />
-          <entry key="txt" value="177" />
+          <entry key="kt" value="5003" />
+          <entry key="txt" value="220" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="4888" />
-          <entry key="PLAIN_TEXT" value="189" />
+          <entry key="Kotlin" value="5003" />
+          <entry key="PLAIN_TEXT" value="232" />
         </counts>
       </usages-collector>
     </session>
@@ -91,13 +87,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PalindromeNumber.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="263">
               <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding>
                 <element signature="e#15#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RegularExpression.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+              <folding>
+                <element signature="e#16#69#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,15 +165,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Strings.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
@@ -212,6 +211,7 @@
         <option value="$PROJECT_DIR$/src/ReverseInteger.kt" />
         <option value="$PROJECT_DIR$/src/StringToInteger.kt" />
         <option value="$PROJECT_DIR$/src/PalindromeNumber.kt" />
+        <option value="$PROJECT_DIR$/src/RegularExpression.kt" />
       </list>
     </option>
   </component>
@@ -250,7 +250,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548911161750" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549005325865" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -268,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Tests.test4">
+  <component name="RunManager" selected="JUnit.Tests (2)">
     <configuration name="Tests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Leet" />
       <extension name="coverage">
@@ -283,6 +283,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tests (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="prob10.Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Leet" />
       <extension name="coverage">
@@ -293,22 +307,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="prob9.Tests" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tests.RemoveWhiteSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Leet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prob8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="prob8.Tests" />
-      <option name="METHOD_NAME" value="RemoveWhiteSpace" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -347,18 +345,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Tests (1)" />
-      <item itemvalue="JUnit.Tests.RemoveWhiteSpace" />
       <item itemvalue="JUnit.Tests" />
       <item itemvalue="JUnit.Tests.test3" />
       <item itemvalue="JUnit.Tests.test4" />
+      <item itemvalue="JUnit.Tests (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Tests (2)" />
         <item itemvalue="JUnit.Tests.test4" />
         <item itemvalue="JUnit.Tests" />
         <item itemvalue="JUnit.Tests.test3" />
         <item itemvalue="JUnit.Tests (1)" />
-        <item itemvalue="JUnit.Tests.RemoveWhiteSpace" />
       </list>
     </recent_temporary>
   </component>
@@ -429,13 +427,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548832303412</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="palindromic number prob9">
+      <created>1548911222361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548911222361</updated>
+    </task>
+    <task id="LOCAL-00010" summary="RegularExpression">
+      <created>1548920477548</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1548920477548</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_(1) - 2019.01.30 at 16h 04m 40s.xml">
-      <configuration name="Tests (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Tests_(1) - 2019.01.30 at 16h 09m 46s.xml">
       <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
@@ -463,12 +472,14 @@
     <history-entry file="Tests_test4 - 2019.01.31 at 14h 00m 02s.xml">
       <configuration name="Tests.test4" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Tests_(2) - 2019.02.01 at 08h 57m 06s.xml">
+      <configuration name="Tests (2)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1710" height="1337" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27158272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27158272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -477,7 +488,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,7 +517,9 @@
     <MESSAGE value="zigzag pass all no1...." />
     <MESSAGE value="reverse integer" />
     <MESSAGE value="myAtoI" />
-    <option name="LAST_COMMIT_MESSAGE" value="myAtoI" />
+    <MESSAGE value="palindromic number prob9" />
+    <MESSAGE value="RegularExpression" />
+    <option name="LAST_COMMIT_MESSAGE" value="RegularExpression" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -681,6 +694,16 @@
           <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
             <element signature="e#15#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegularExpression.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="e#16#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
