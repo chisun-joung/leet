@@ -52,13 +52,26 @@ import kotlin.test.assertEquals
 class Solution {
     fun isMatch(s: String, p: String): Boolean {
 
-        return p == s
+        val pattern = p.toRegex()
+        return pattern.matches(s)
     }
 }
 
 class Tests {
     @Test fun simpleMatch() {
         assertEquals(true, Solution().isMatch("a","a"))
+    }
+
+    @Test fun simpleTest1() {
+        assertEquals(true,Solution().isMatch("aa","a*"))
+    }
+
+    @Test fun simpleTest2() {
+        assertEquals(true,Solution().isMatch("abc",".*"))
+    }
+
+    @Test fun simpleTest3() {
+        assertEquals(true,Solution().isMatch("aab","c*a*b"))
     }
 }
 
