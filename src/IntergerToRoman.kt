@@ -1,5 +1,7 @@
 package prob12
 
+import java.lang.StringBuilder
+
 //Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 //
 //Symbol       Value
@@ -44,6 +46,17 @@ package prob12
 
 class Solution {
     fun intToRoman(num: Int): String {
+        if (num < 1 || num > 3999) return ""
+        var temp = num
+        var result = StringBuilder()
+
+        when(temp%10){
+            1 -> result.append("I")
+            2 -> result.append("II")
+            3 -> result.append("III")
+            4 -> result.
+        }
+
         return ""
     }
 }
