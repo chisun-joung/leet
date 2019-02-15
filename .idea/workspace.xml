@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a071a6-3db5-4b5a-b01c-61a17f7de9b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RomanToInteger2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefix.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,28 +50,28 @@
           <entry key="class" value="5" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="2" />
-          <entry key="kt" value="37" />
+          <entry key="kt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="JAVA" value="2" />
-          <entry key="Kotlin" value="37" />
+          <entry key="Kotlin" value="39" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="12" />
-          <entry key="kt" value="7740" />
+          <entry key="kt" value="8118" />
           <entry key="kts" value="82" />
           <entry key="txt" value="292" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="7822" />
+          <entry key="Kotlin" value="8200" />
           <entry key="PLAIN_TEXT" value="304" />
         </counts>
       </usages-collector>
@@ -91,13 +91,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RomanToInteger2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="758">
-              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+            <state relative-caret-position="315">
+              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
               <folding>
                 <element signature="e#17#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntergerToRoman.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="100" column="36" lean-forward="true" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+              <folding>
+                <element signature="e#16#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding>
+                <element signature="e#16#69#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,24 +181,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TwoSum.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZigZag2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZigZagConversion.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -217,6 +223,7 @@
         <option value="$PROJECT_DIR$/src/IntergerToRoman.kt" />
         <option value="$PROJECT_DIR$/src/RomanToInteger.kt" />
         <option value="$PROJECT_DIR$/src/RomanToInteger2.kt" />
+        <option value="$PROJECT_DIR$/src/LongestCommonPrefix.kt" />
       </list>
     </option>
   </component>
@@ -255,7 +262,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550214145972" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550218371022" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -273,31 +280,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Tests">
+  <component name="RunManager" selected="JUnit.Tests (1)">
     <configuration name="Tests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Leet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prob12.*" />
+          <option name="PATTERN" value="prob14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="prob12.Tests" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tests (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Leet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prob13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="prob13.Tests" />
+      <option name="MAIN_CLASS_NAME" value="prob14.Tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -312,6 +305,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="prob131.Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="prob14.Tests" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -349,19 +358,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Tests (1)" />
-      <item itemvalue="JUnit.Tests (4)" />
       <item itemvalue="JUnit.Tests" />
       <item itemvalue="JUnit.Tests.test_DCXXI" />
       <item itemvalue="JUnit.Tests.test_I" />
+      <item itemvalue="JUnit.Tests.Test1" />
+      <item itemvalue="JUnit.Tests (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Tests (1)" />
+        <item itemvalue="JUnit.Tests.Test1" />
         <item itemvalue="JUnit.Tests" />
         <item itemvalue="JUnit.Tests.test_I" />
         <item itemvalue="JUnit.Tests.test_DCXXI" />
-        <item itemvalue="JUnit.Tests (4)" />
-        <item itemvalue="JUnit.Tests (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -488,39 +497,46 @@
       <option name="project" value="LOCAL" />
       <updated>1550123741084</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="RomanToInteger">
+      <created>1550214342495</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1550214342495</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests - 2019.02.15 at 14h 06m 54s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
+    <history-entry file="Tests_Test1 - 2019.02.15 at 16h 59m 57s.xml">
+      <configuration name="Tests.Test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.02.15 at 14h 08m 25s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 00m 32s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests_test_DCXXI - 2019.02.15 at 14h 11m 16s.xml">
-      <configuration name="Tests.test_DCXXI" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 03m 02s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests_test_DCXXI - 2019.02.15 at 14h 13m 20s.xml">
-      <configuration name="Tests.test_DCXXI" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 03m 10s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests_test_I - 2019.02.15 at 14h 16m 10s.xml">
-      <configuration name="Tests.test_I" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 04m 04s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.02.15 at 14h 16m 16s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 05m 10s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.02.15 at 15h 21m 23s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 05m 38s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.02.15 at 15h 40m 58s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 08m 48s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.02.15 at 15h 42m 38s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 10m 02s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.02.15 at 15h 52m 20s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
+    <history-entry file="Tests_(1) - 2019.02.15 at 17h 10m 43s.xml">
+      <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -592,6 +608,12 @@
           <line>92</line>
           <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/LongestCommonPrefix.kt</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -686,16 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntergerToRoman.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="100" column="36" lean-forward="true" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
-          <folding>
-            <element signature="e#16#100#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,10 +852,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RomanToInteger2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
           <folding>
             <element signature="e#17#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntergerToRoman.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="100" column="36" lean-forward="true" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+          <folding>
+            <element signature="e#16#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#16#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
