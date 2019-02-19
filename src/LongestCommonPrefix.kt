@@ -24,6 +24,19 @@ class Solution {
 
         return result
     }
+
+    fun longestCommonPrefix1(strs: Array<String>): String {
+        if(strs.isEmpty()) return ""
+        var prefix = strs[0];
+        for (i in 1 until strs.size){
+            while (strs[i].indexOf(prefix) != 0) {
+                prefix = prefix.substring(0,prefix.length-1)
+                if (prefix.isEmpty()) return ""
+            }
+        }
+        return prefix
+    }
+
 }
 
 class Tests{
@@ -33,6 +46,14 @@ class Tests{
 
     @Test fun Test2(){
         assertEquals("fl", Solution().longestCommonPrefix(arrayOf("flower","flow","flight")))
+    }
+
+    @Test fun Test3(){
+        assertEquals("", Solution().longestCommonPrefix1(arrayOf("dog","racecar","car")))
+    }
+
+    @Test fun Test4(){
+        assertEquals("fl", Solution().longestCommonPrefix1(arrayOf("flower","flow","flight")))
     }
 
 }
