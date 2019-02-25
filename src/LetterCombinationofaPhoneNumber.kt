@@ -17,7 +17,25 @@ package prob17
 
 
 class Solution {
+    val digitsToString = mapOf("2" to "abc", "3" to "def", "4" to "ghi", "5" to "jkl", "6" to "mno", "7" to "pqrs", "8" to "tuv", "9" to "wxyz")
     fun letterCombinations(digits: String): List<String> {
-        return listOf()
+        var result = mutableListOf<String>()
+        fun go(digits:String, acc: String) {
+            if(digits.isEmpty()) result.add(acc)
+            val first = digits.take(1)
+            val temp = digitsToString[first]
+            for (i in 0 until (temp?.length ?: 0)){
+                go(digits.drop(1), acc + temp?.get(i))
+            }
+        }
+
+        if (digits.isEmpty()) return result
+        go(digits,"")
+        return result
     }
+}
+
+
+fun main() {
+    println(Solution().letterCombinations("2347"))
 }
