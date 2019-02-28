@@ -37,5 +37,5 @@ class Solution {
 
 
 fun main() {
-    println(Solution().letterCombinations("2347"))
+    println(Solution().letterCombinations("58756399"))
 }
