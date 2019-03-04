@@ -25,23 +25,30 @@ package prob19
 class Solution {
     fun removeNthFromEnd(head: ListNode?, n: Int): ListNode? {
         var current = head
-        var result = head
+        var nth = current
+        var result : ListNode?
         var remain = n
-        if (current?.next == null && remain == 1)
-            return null
-        while (current?.next != null){
+        while (current != null){
             current = current.next
             if(remain==0){
-                result = result?.next
+                nth = nth?.next
             } else if ( remain > 0){
                 remain--
             }
         }
+        current = head
+        result = current
+        while(current != null){
+            if(current == nth){
+                current = nth.next
+            }else{
+                current = current.next
+            }
 
-        result?.next = result?.next?.next
+        }
 
 
-        return head
+        return result
     }
 }
 fun printNode(head : ListNode?) : Unit {
@@ -72,6 +79,5 @@ fun main() {
     head.add(ListNode(3))
     head.add(ListNode(4))
     head.add(ListNode(5))
-    Solution().removeNthFromEnd(head,2)
-    printNode(head)
+    printNode(Solution().removeNthFromEnd(head,2))
 }
