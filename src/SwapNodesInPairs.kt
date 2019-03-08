@@ -27,7 +27,7 @@ class Solution {
         var result = cur.next
         while(cur?.next != null){
             var next = cur.next
-            cur.next = cur.next?.next
+            cur.next = next?.next
             next?.next = cur
             cur = cur.next
             next?.next?.next = cur?.next ?: cur
