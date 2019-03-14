@@ -50,6 +50,7 @@ fun reverseNode(head: ListNode?, k: Int): ListNode? {
     if (head.next == null || k == 1) return head
     var prev:ListNode? = ListNode(0)
     var tail:ListNode? = ListNode(0)
+    var start:ListNode? = ListNode(0)
     var cur = head
     var post = head
     while (cur != null) {
@@ -63,6 +64,7 @@ fun reverseNode(head: ListNode?, k: Int): ListNode? {
             }
         }
         tail?.next = cur
+        prev?.next = null
         if (keepGoing) {
             for (i in k downTo 1) {
                 var next = cur?.next
@@ -70,18 +72,22 @@ fun reverseNode(head: ListNode?, k: Int): ListNode? {
                 prev?.next = cur
                 cur = next
             }
+            if (start?.next == null) {
+                start?.next = prev?.next
+            }
+            tail?.next?.next = cur
         } else{
             break
         }
 
     }
-    return prev?.next
+    return start?.next
 }
 
 class ListNode(var `val`: Int) {
     var next: ListNode? = null
     fun add(node: ListNode): Unit {
-        var temp = this@ListNode
+        var temp = this
         while (temp.next !=null )
         {
             temp = temp.next as ListNode
@@ -96,6 +102,8 @@ fun main() {
     list.add(ListNode(2))
     list.add(ListNode(3))
     list.add(ListNode(4))
+    list.add(ListNode(5))
+    list.add(ListNode(6))
 
     printNode(reverseNode(list,2))
 }
