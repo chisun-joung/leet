@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a071a6-3db5-4b5a-b01c-61a17f7de9b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveElement.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseNodesInKGroup.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseNodesInKGroup.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,28 +17,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwapNodesInPairs.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReverseNodesInKGroup.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="73" column="17" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="73" selection-end-column="17" />
+            <state relative-caret-position="-493">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RemoveNthNodeFromListEnd.kt">
+        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="68" selection-start-line="47" selection-end-line="68" />
+            <state relative-caret-position="459">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RemoveElement.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -98,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="289">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -165,10 +167,12 @@
         <option value="$PROJECT_DIR$/src/MergeKsortedLists.kt" />
         <option value="$PROJECT_DIR$/src/SwapNodesInPairs.kt" />
         <option value="$PROJECT_DIR$/src/ReverseNodesInKGroup.kt" />
+        <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.kt" />
+        <option value="$PROJECT_DIR$/src/RemoveElement.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-1971" />
     <option name="y" value="39" />
     <option name="width" value="1932" />
@@ -212,7 +216,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552609601523" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552633463683" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -230,20 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.prob25.ReverseNodesInKGroupKt">
-    <configuration name="prob21.Merge2SortedListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Leet" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="prob21.Merge2SortedListKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.prob26.RemoveDuplicatesFromSortedArrayKt">
     <configuration name="prob22.GenerateParenthesesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Leet" />
       <option name="VM_PARAMETERS" />
@@ -296,20 +287,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="prob26.RemoveDuplicatesFromSortedArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Leet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="prob26.RemoveDuplicatesFromSortedArrayKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Kotlin.prob21.Merge2SortedListKt" />
       <item itemvalue="Kotlin.prob22.GenerateParenthesesKt" />
       <item itemvalue="Kotlin.prob23.MergeKsortedListsKt" />
       <item itemvalue="Kotlin.prob24.SwapNodesInPairsKt" />
       <item itemvalue="Kotlin.prob25.ReverseNodesInKGroupKt" />
+      <item itemvalue="Kotlin.prob26.RemoveDuplicatesFromSortedArrayKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.prob26.RemoveDuplicatesFromSortedArrayKt" />
         <item itemvalue="Kotlin.prob25.ReverseNodesInKGroupKt" />
         <item itemvalue="Kotlin.prob24.SwapNodesInPairsKt" />
         <item itemvalue="Kotlin.prob23.MergeKsortedListsKt" />
         <item itemvalue="Kotlin.prob22.GenerateParenthesesKt" />
-        <item itemvalue="Kotlin.prob21.Merge2SortedListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552375468935</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="reverse list node in k groups  complete">
+      <created>1552609812027</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1552609812027</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -605,10 +616,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1971" y="39" width="1932" height="1045" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17467949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -617,7 +628,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3438178" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34796926" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -625,7 +636,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931727" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.09663409" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3264642" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32601535" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -638,7 +649,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LongestPanlindromic" />
     <MESSAGE value="zigzag pass 1" />
     <MESSAGE value="zigzag pass all no1...." />
     <MESSAGE value="reverse integer" />
@@ -663,7 +673,8 @@
     <MESSAGE value="reduce..." />
     <MESSAGE value="swap node....." />
     <MESSAGE value="reverse list node in k groups  incomplete" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse list node in k groups  incomplete" />
+    <MESSAGE value="reverse list node in k groups  complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse list node in k groups  complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -714,20 +725,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Arrays.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1189">
-          <caret line="1345" column="20" selection-start-line="1345" selection-start-column="20" selection-end-line="1345" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java" />
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/text/StringNumberConversionsJVM.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1037,8 +1034,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="289">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1054,8 +1051,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseNodesInKGroup.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="73" column="17" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="73" selection-end-column="17" />
+        <state relative-caret-position="-493">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveElement.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
