@@ -29,8 +29,54 @@ package prob25
  */
 class Solution {
     fun reverseKGroup(head: ListNode?, k: Int): ListNode? {
+        if (head == null) return null
+        if (head.next == null || k <= 1 ) return head
+        val prev:ListNode? = ListNode(0)
+        val tail:ListNode? = ListNode(0)
+        val start:ListNode? = ListNode(0)
+        var cur = head
+        var post = cur
+        var preTail : ListNode? = null
+        while (cur != null) {
+            var keepGoing = true
+            post = cur
+            for(i in k downTo 1){
+                post = post?.next
+                if (post == null && i > 1) {
+                    keepGoing = false
+                    break
+                }
+            }
+            tail?.next = cur
+            prev?.next = null
+            if (keepGoing) {
+                for (i in k downTo 1) {
+                    val next = cur?.next
+                    cur?.next = prev?.next
+                    prev?.next = cur
+                    cur = next
+                }
+                if (start?.next == null) {
+                    start?.next = prev?.next
+                }
+                tail?.next?.next = cur
 
-        return null
+                if (preTail == null) {
+                    preTail = tail?.next
+                } else {
+                    preTail.next = prev?.next
+                    preTail = tail?.next
+                }
+
+            } else{
+                if (start?.next == null) {
+                    start?.next = head
+                }
+                break
+            }
+
+        }
+        return start?.next
     }
 }
 
@@ -45,14 +91,16 @@ fun printNode(head : ListNode?) : Unit {
 
 }
 
+/*
 fun reverseNode(head: ListNode?, k: Int): ListNode? {
     if (head == null) return null
-    if (head.next == null || k == 1) return head
-    var prev:ListNode? = ListNode(0)
-    var tail:ListNode? = ListNode(0)
-    var start:ListNode? = ListNode(0)
+    if (head.next == null || k <= 1) return head
+    val prev:ListNode? = ListNode(0)
+    val tail:ListNode? = ListNode(0)
+    val start:ListNode? = ListNode(0)
     var cur = head
-    var post = head
+    var post = cur
+    var preTail : ListNode? = null
     while (cur != null) {
         var keepGoing = true
         post = cur
@@ -67,7 +115,7 @@ fun reverseNode(head: ListNode?, k: Int): ListNode? {
         prev?.next = null
         if (keepGoing) {
             for (i in k downTo 1) {
-                var next = cur?.next
+                val next = cur?.next
                 cur?.next = prev?.next
                 prev?.next = cur
                 cur = next
@@ -76,6 +124,14 @@ fun reverseNode(head: ListNode?, k: Int): ListNode? {
                 start?.next = prev?.next
             }
             tail?.next?.next = cur
+
+            if (preTail == null) {
+                preTail = tail?.next
+            } else {
+                preTail.next = prev?.next
+                preTail = tail?.next
+            }
+
         } else{
             break
         }
@@ -83,6 +139,7 @@ fun reverseNode(head: ListNode?, k: Int): ListNode? {
     }
     return start?.next
 }
+*/
 
 class ListNode(var `val`: Int) {
     var next: ListNode? = null
@@ -105,5 +162,5 @@ fun main() {
     list.add(ListNode(5))
     list.add(ListNode(6))
 
-    printNode(reverseNode(list,2))
+    printNode(Solution().reverseKGroup(list,7))
 }
