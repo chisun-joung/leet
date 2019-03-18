@@ -41,3 +41,37 @@ for (int i = 0; i < len; i++) {
 
 }*/
 
+class Solution {
+    fun removeElement(nums: IntArray, `val`: Int): Int {
+        val temp = nums.filter { it!= `val` }.toIntArray()
+        for (i in 0 until temp.size)
+            nums[i] = temp[i]
+
+        return temp.size
+    }
+
+    fun removeElement1(nums: IntArray, `val`: Int): Int {
+        var i = 0
+        var n = nums.size
+        while ( i < n) {
+            if (nums[i] == `val`){
+                nums[i] = nums[n-1]
+                n--
+            } else {
+                i++
+            }
+        }
+        return n
+    }
+}
+
+
+fun main() {
+    val nums = intArrayOf(3,2,2,3)
+
+    val len = Solution().removeElement1(nums,3)
+    for (i in 0 until len){
+        print( "${nums[i]}, ")
+    }
+    println()
+}
