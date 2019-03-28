@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a071a6-3db5-4b5a-b01c-61a17f7de9b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SubstringwithConcatenationofAllWords2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NextPermutation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SubstringwithConcatenationofAllWords.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubstringwithConcatenationofAllWords.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,13 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SubstringwithConcatenationofAllWords2.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
               <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
               <folding>
                 <element signature="e#17#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NextPermutation.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding>
+                <element signature="e#16#69#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,11 +45,6 @@
               <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -158,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/divideTwoIntegers.kt" />
         <option value="$PROJECT_DIR$/src/SubstringwithConcatenationofAllWords.kt" />
         <option value="$PROJECT_DIR$/src/SubstringwithConcatenationofAllWords2.kt" />
+        <option value="$PROJECT_DIR$/src/NextPermutation.kt" />
       </list>
     </option>
   </component>
@@ -200,7 +207,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553737830321" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553757190453" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -223,7 +230,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Tests (1)">
+  <component name="RunManager" selected="Kotlin.prob31.NextPermutationKt">
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="prob31.Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="prob31.Test" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Leet" />
       <extension name="coverage">
@@ -234,21 +272,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="prob302.Tests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Leet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prob29.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="prob29.Tests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -270,46 +293,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prob302.SubstringwithConcatenationofAllWords2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="prob31.NextPermutationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Leet" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="prob302.SubstringwithConcatenationofAllWords2Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="prob30.SubstringwithConcatenationofAllWordsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Leet" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="prob30.SubstringwithConcatenationofAllWordsKt" />
+      <option name="MAIN_CLASS_NAME" value="prob31.NextPermutationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Tests" />
       <item itemvalue="JUnit.Tests (1)" />
       <item itemvalue="JUnit.Tests.test1" />
-      <item itemvalue="Kotlin.prob30.SubstringwithConcatenationofAllWordsKt" />
-      <item itemvalue="Kotlin.prob302.SubstringwithConcatenationofAllWords2Kt" />
+      <item itemvalue="Kotlin.prob31.NextPermutationKt" />
+      <item itemvalue="JUnit.Test" />
+      <item itemvalue="JUnit.Test.Test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.prob31.NextPermutationKt" />
+        <item itemvalue="JUnit.Test.Test1" />
+        <item itemvalue="JUnit.Test" />
         <item itemvalue="JUnit.Tests (1)" />
         <item itemvalue="JUnit.Tests.test1" />
-        <item itemvalue="Kotlin.prob302.SubstringwithConcatenationofAllWords2Kt" />
-        <item itemvalue="Kotlin.prob30.SubstringwithConcatenationofAllWordsKt" />
-        <item itemvalue="JUnit.Tests" />
       </list>
     </recent_temporary>
   </component>
@@ -597,16 +607,17 @@
       <option name="project" value="LOCAL" />
       <updated>1553154305022</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="substringwithconcatenation">
+      <created>1553737959534</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1553737959536</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_test_6 - 2019.03.04 at 17h 13m 12s.xml">
-      <configuration name="Tests.test_6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2019.03.18 at 14h 42m 01s.xml">
-      <configuration name="Tests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Tests - 2019.03.18 at 14h 47m 45s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
@@ -631,12 +642,18 @@
     <history-entry file="Tests_(1) - 2019.03.28 at 10h 34m 26s.xml">
       <configuration name="Tests (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Test - 2019.03.28 at 16h 09m 18s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_Test1 - 2019.03.28 at 16h 10m 48s.xml">
+      <configuration name="Test.Test1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -645,7 +662,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3470716" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3470716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -742,13 +759,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="893" column="43" selection-start-line="893" selection-start-column="43" selection-end-line="893" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/3Sum2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -1101,6 +1111,16 @@
           <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
           <folding>
             <element signature="e#17#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NextPermutation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="e#16#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
