@@ -1,4 +1,4 @@
-package prob38
+package prob382
 
 import org.junit.Test
 import kotlin.test.assertEquals
@@ -34,33 +34,29 @@ Output: "1211"*/
 
 class Solution {
     fun countAndSay(n: Int): String {
-        var pre = "1"
-        var next = ""
-        var step = 1
-        var count = 0
-        while (step < n) {
-            var say = pre[0]
-            for (i in 0 until pre.length){
-                if (say == pre[i]){
-                    count++
-                    if (i == pre.length-1){
-                        next = "$next$count$say"
-                    }
-                }else if (say != pre[i]) {
-                    next = "$next$count$say"
-                    count = 1
-                    say = pre[i]
-                    if (i == pre.length-1){
-                        next = "$next$count$say"
-                    }
-                }
-            }
-            pre = next
-            next = ""
-            step++
-            count = 0
+        var s = "1"
+        for (line in 1 until n){
+            s = next(s)
         }
-        return pre
+        return s
+    }
+
+    private fun next(s: String): String {
+        var s1 = s
+        var length = 1
+        var head = s1[0]
+        var result = ""
+        for (i in 1 until s1.length) {
+            if (s1[i] == head) {
+                length++
+            } else {
+                result = "$result$length$head"
+                length = 1
+                head = s1[i]
+            }
+        }
+        s1 = "$result$length$head"
+        return s1
     }
 }
 
