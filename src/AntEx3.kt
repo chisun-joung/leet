@@ -73,7 +73,7 @@ fun ant(n: Int): Iterator<Int> {
 }
 
 fun main() {
-   for (a in ant(50))
-       print("$a")
+    for (a in ant(50))
+        print("$a")
 
 }
