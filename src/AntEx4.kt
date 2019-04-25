@@ -29,6 +29,6 @@ fun ant(n: Int): Sequence<Int> {
 
 fun main() {
 
-    print(ant(100).take(10).toList())
+    print(ant(101).take(100).toList())
 
 }
