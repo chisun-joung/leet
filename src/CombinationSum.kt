@@ -1,6 +1,6 @@
 package combinationsum
 
-import java.util.Arrays.sort
+
 
 /*
 
@@ -33,6 +33,23 @@ A solution set is:
 
 class Solution {
     fun combinationSum(candidates: IntArray, target: Int): List<List<Int>> {
-        
+        val result = mutableListOf<List<Int>>()
+        val list = mutableListOf<Int>()
+        candidates.sort()
+        fun dfs(remain: Int, from: Int){
+            if (remain < 0 ) return
+            if (remain == 0) {
+                result.add(list.toList())
+                return
+            }
+            for (i in from until candidates.size) {
+                list.add(candidates[i])
+                dfs(remain - candidates[i], i)
+                list.removeAt(list.size-1)
+            }
+
+        }
+        dfs(target,0)
+        return result
     }
 }
