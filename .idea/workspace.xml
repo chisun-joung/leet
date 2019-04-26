@@ -2,58 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a071a6-3db5-4b5a-b01c-61a17f7de9b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_21_40/_40_CombinationSumII/CombinationSumII.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3Sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_15_3Sum/3Sum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3Sum2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_15_3Sum/3Sum2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3SumCloest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_16_3SumClosest/3SumCloest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3sum3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_15_3Sum/3sum3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/4sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_18_4Sum/4sum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_2_AddTwoNumbers/AddTwoNum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNum2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_2_AddTwoNumbers/AddTwoNum2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CombinationSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_39_CombinationSum/CombinationSum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainerWithMostWater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_11_ContainerWithMostWater/ContainerWithMostWater.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountandSay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountandSay2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountandSay3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindFirstandLastPosition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_34_FindFirstandLastPositionofElementsinSortedArray/FindFirstandLastPosition.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenerateParentheses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_22_GenerateParentheses/GenerateParentheses.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntergerToRoman.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_12_IntergerToRoman/IntergerToRoman.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LetterCombinationofaPhoneNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_17_LetterCombinationsofAPhoneNumber/LetterCombinationofaPhoneNumber.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestCommonPrefix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_14_LongestCommonPrefix/LongestCommonPrefix.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestPanlindromic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_5_LongestPalindromicSubstring/LongestPanlindromic.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestPanlindromic2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_5_LongestPalindromicSubstring/LongestPanlindromic2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestSubstring.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_3_LongestSubString/LongestSubstring.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestValidParentheses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_32_LongestValidParentheses/LongestValidParentheses.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestValidParentheses2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_32_LongestValidParentheses/LongestValidParentheses2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestValidParentheses3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_32_LongestValidParentheses/LongestValidParentheses3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MedianofTwoSortedArrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_4_MedianOfTwoSortedArrays/MedianofTwoSortedArrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Merge2SortedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_21_MergeTwoSortedLists/Merge2SortedList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeKsortedLists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_23_MergeKSortedLists/MergeKsortedLists.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NextPermutation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_31_NextPermutation/NextPermutation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NextPermutation2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_31_NextPermutation/NextPermutation2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PalindromeNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_9_PalindromeNumber/PalindromeNumber.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RegularExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_10_RegularExpressionMatching/RegularExpression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_26_RemoveDuplicatesfromSortedArray/RemoveDuplicatesFromSortedArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_27_RemoveElement/RemoveElement.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveNthNodeFromListEnd.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_19_RemoveNthNodeFromEndofList/RemoveNthNodeFromListEnd.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_7_ReverseInteger/ReverseInteger.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseNodesInKGroup.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_25_ReverseNodesinKGroup/ReverseNodesInKGroup.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RomanToInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_13_RomantoInteger/RomanToInteger.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RomanToInteger2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_13_RomantoInteger/RomanToInteger2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInRotatedSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_33_SearchinRotatedSortedArray/SearchInRotatedSortedArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInsertPosition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_35_SearchInsertPosition/SearchInsertPosition.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringToInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_8_StringToInteger/StringToInteger.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SubstringwithConcatenationofAllWords.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_30_SubstringwithConcatenationofAllWords/SubstringwithConcatenationofAllWords.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SubstringwithConcatenationofAllWords2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_30_SubstringwithConcatenationofAllWords/SubstringwithConcatenationofAllWords2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SudokuSolver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_37_SUdokuSolver/SudokuSolver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwapNodesInPairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_24_SwapNodesinPairs/SwapNodesInPairs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_1_TwoSum/TwoSum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidParentheses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_20_ValidParentheses/ValidParentheses.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidSudoku.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_36_ValidSudoku/ValidSudoku.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZigZag2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_6_ZigZagConversion/ZigZag2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZigZagConversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_20/_6_ZigZagConversion/ZigZagConversion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/divideTwoIntegers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_29_DivideTwoIntegers/divideTwoIntegers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strStr.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_40/_28_ImplementstrStr/strStr.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,19 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+            <state relative-caret-position="612">
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -92,25 +34,34 @@
         <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay3.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_1_20/_6_ZigZagConversion/ZigZagConversion.kt">
+        <entry file="file://$PROJECT_DIR$/src/AntEx3.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+            <state relative-caret-position="1309">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AntEx3.kt">
+        <entry file="file://$PROJECT_DIR$/src/_21_40/_40_CombinationSumII/CombinationSumII.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="737">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="402">
+              <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_21_40/_39_CombinationSum/CombinationSum.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -181,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LongestCommonPrefix.kt" />
         <option value="$PROJECT_DIR$/src/3Sum.kt" />
         <option value="$PROJECT_DIR$/src/3Sum2.kt" />
         <option value="$PROJECT_DIR$/src/3sum3.kt" />
@@ -232,12 +182,13 @@
         <option value="$PROJECT_DIR$/src/_1_20/_15_3Sum/3sum3.kt" />
         <option value="$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay2.kt" />
         <option value="$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay3.kt" />
+        <option value="$PROJECT_DIR$/src/_21_40/_40_CombinationSumII/CombinationSumII.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
-    <option name="width" value="1148" />
+    <option name="width" value="1850" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -245,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,12 +211,6 @@
             </path>
             <path>
               <item name="Leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_21_40" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leet" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -272,7 +218,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,18 +256,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.antEx4.AntEx4Kt">
-    <configuration name="Tests (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin._21_40._40_CombinationSumII.CombinationSumIIKt">
+    <configuration name="_21_40._40_CombinationSumII.CombinationSumIIKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Leet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prob383.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="prob383.Tests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_21_40._40_CombinationSumII.CombinationSumIIKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -380,19 +323,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Tests (2)" />
       <item itemvalue="Kotlin.antEx1.AntEx1Kt" />
       <item itemvalue="Kotlin.antEx2.AntEx2Kt" />
       <item itemvalue="Kotlin.antEx3.AntEx3Kt" />
       <item itemvalue="Kotlin.antEx4.AntEx4Kt" />
+      <item itemvalue="Kotlin._21_40._40_CombinationSumII.CombinationSumIIKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._21_40._40_CombinationSumII.CombinationSumIIKt" />
         <item itemvalue="Kotlin.antEx4.AntEx4Kt" />
         <item itemvalue="Kotlin.antEx3.AntEx3Kt" />
         <item itemvalue="Kotlin.antEx1.AntEx1Kt" />
         <item itemvalue="Kotlin.antEx2.AntEx2Kt" />
-        <item itemvalue="JUnit.Tests (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -406,13 +349,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547593198728</updated>
-    </task>
-    <task id="LOCAL-00006" summary="zigzag pass all no1....">
-      <created>1548718731528</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1548718731528</updated>
     </task>
     <task id="LOCAL-00007" summary="reverse integer">
       <created>1548721111020</created>
@@ -750,7 +686,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556236137048</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="rearrange package.">
+      <created>1556243102484</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1556243102485</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -786,9 +729,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="1148" height="1040" extended-state="0" />
+    <frame x="-10" y="0" width="1850" height="1040" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34834558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21564245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -797,7 +740,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35430464" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35430464" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39845476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -805,7 +748,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931727" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.09637188" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3231106" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3222958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -819,7 +762,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="imperfect code........" />
     <MESSAGE value="removeNthFromtheEndofList. Two pass solution." />
     <MESSAGE value="Valid Parentheses  when is great  &#10;lastOrNull also great." />
     <MESSAGE value="Merge2SortedList." />
@@ -844,7 +786,8 @@
     <MESSAGE value="count and say&#10;&#10;generator" />
     <MESSAGE value="CombinationSum" />
     <MESSAGE value="CombinationSum   dfs   backtracking" />
-    <option name="LAST_COMMIT_MESSAGE" value="CombinationSum   dfs   backtracking" />
+    <MESSAGE value="rearrange package." />
+    <option name="LAST_COMMIT_MESSAGE" value="rearrange package." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -916,13 +859,6 @@
     <SUITE FILE_PATH="coverage/Leet$antEx2_AntEx2Kt.ic" NAME="antEx2.AntEx2Kt Coverage Results" MODIFIED="1555466226745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Arrays.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157709">
-          <caret line="9301" column="21" selection-start-line="9301" selection-start-column="21" selection-end-line="9301" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3060">
@@ -1062,13 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_21_40/_39_CombinationSum/CombinationSum.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_1_20/_10_RegularExpressionMatching/RegularExpression.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1117,13 +1046,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_21_40/_32_LongestValidParentheses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_21_40/_32_LongestValidParentheses.kt" />
     <entry file="file://$PROJECT_DIR$/src/_21_40/_31_NextPermutation/NextPermutation2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -1176,6 +1099,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AntEx3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AntEx4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_1_20/_6_ZigZagConversion/ZigZag2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1204,38 +1162,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay3.kt">
+    <entry file="file://$PROJECT_DIR$/src/_21_40/_39_CombinationSum/CombinationSum.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="244">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay2.kt">
+    <entry file="file://$PROJECT_DIR$/src/_21_40/_40_CombinationSumII/CombinationSumII.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_21_40/_38_CountandSay/CountandSay.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AntEx4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AntEx3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="402">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
         </state>
       </provider>
     </entry>
