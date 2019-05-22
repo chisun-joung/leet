@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a071a6-3db5-4b5a-b01c-61a17f7de9b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_41_60/TrappingRainWater.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_41_60/FirstMissingPositive.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_41_60/_41_FirstMissingPositive/FirstMissingPositive.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_41_60/TrappingRainWater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_41_60/_42_TrappingRainWater/TrappingRainWater.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,49 +24,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AntEx3.kt">
+        <entry file="file://$PROJECT_DIR$/src/_41_60/_42_TrappingRainWater/TrappingRainWater.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1309">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_21_40/_40_CombinationSumII/CombinationSumII.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_41_60/FirstMissingPositive.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_41_60/TrappingRainWater.kt">
+        <entry file="file://$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="339">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
               <folding>
-                <element signature="e#34#79#0" expanded="true" />
+                <element signature="e#36#89#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_21_40/_39_CombinationSum/CombinationSum.kt">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            <state relative-caret-position="406">
+              <caret line="206" column="25" selection-start-line="206" selection-start-column="25" selection-end-line="206" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_41_60/_41_FirstMissingPositive/FirstMissingPositive.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -71,8 +65,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AntEx4.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
+            <state relative-caret-position="465">
               <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AntEx1.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -80,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_1_20/_6_ZigZagConversion/ZigZag2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="315">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
@@ -134,9 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/3sum3.kt" />
-        <option value="$PROJECT_DIR$/src/3SumCloest.kt" />
-        <option value="$PROJECT_DIR$/src/LetterCombinationofaPhoneNumber.kt" />
         <option value="$PROJECT_DIR$/src/4sum.kt" />
         <option value="$PROJECT_DIR$/src/RemoveNthNodeFromListEnd.kt" />
         <option value="$PROJECT_DIR$/src/ValidParentheses.kt" />
@@ -185,14 +185,17 @@
         <option value="$PROJECT_DIR$/src/_21_40/_40_CombinationSumII/CombinationSumII.kt" />
         <option value="$PROJECT_DIR$/src/_41_60/FirstMissingPositive.kt" />
         <option value="$PROJECT_DIR$/src/_41_60/TrappingRainWater.kt" />
+        <option value="$PROJECT_DIR$/src/_41_60/_41_FirstMissingPositive/FirstMissingPositive.kt" />
+        <option value="$PROJECT_DIR$/src/_41_60/_42_TrappingRainWater/TrappingRainWater.kt" />
+        <option value="$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="890" />
-    <option name="y" value="1" />
+    <option name="x" value="39" />
+    <option name="y" value="23" />
     <option name="width" value="1456" />
-    <option name="height" value="1394" />
+    <option name="height" value="1337" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -204,23 +207,56 @@
         <subPane>
           <expand>
             <path>
-              <item name="Leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leet" type="462c0819:PsiDirectoryNode" />
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leet" type="462c0819:PsiDirectoryNode" />
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leet" type="462c0819:PsiDirectoryNode" />
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_21_40" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_41_60" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_41_60" type="462c0819:PsiDirectoryNode" />
+              <item name="_41_FirstMissingPositive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_41_60" type="462c0819:PsiDirectoryNode" />
+              <item name="_42_TrappingRainWater" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_41_60" type="462c0819:PsiDirectoryNode" />
+              <item name="_43_MultiplyStrings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,15 +278,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\Leet\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_41_60/_42_TrappingRainWater" />
+      <recent name="$PROJECT_DIR$/src/_41_60/_41_FirstMissingPositive" />
       <recent name="C:\Users\admin\IdeaProjects\Leet\src\_21_40\_39_CombinationSum" />
       <recent name="C:\Users\admin\IdeaProjects\Leet\src\_21_40\_38_CountandSay" />
       <recent name="C:\Users\admin\IdeaProjects\Leet\src\_21_40\_37_SUdokuSolver" />
-      <recent name="C:\Users\admin\IdeaProjects\Leet\src\_21_40\_36_ValidSudoku" />
-      <recent name="C:\Users\admin\IdeaProjects\Leet\src\_21_40\_35_SearchInsertPosition" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\IdeaProjects\Leet\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -265,7 +301,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin._41_60.trappingrainwater.TrappingRainWaterKt">
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_41_60._43_MultiplyStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_41_60._43_MultiplyStrings" />
+      <option name="MAIN_CLASS_NAME" value="_41_60._43_MultiplyStrings.Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_21_40._40_CombinationSumII.CombinationSumIIKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Leet" />
       <option name="VM_PARAMETERS" />
@@ -287,19 +338,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="_41_60.trappingrainwater.TrappingRainWaterKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="antEx1.AntEx1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Leet" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="antEx1.AntEx1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -332,19 +370,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.antEx1.AntEx1Kt" />
       <item itemvalue="Kotlin.antEx3.AntEx3Kt" />
       <item itemvalue="Kotlin.antEx4.AntEx4Kt" />
       <item itemvalue="Kotlin._21_40._40_CombinationSumII.CombinationSumIIKt" />
       <item itemvalue="Kotlin._41_60.trappingrainwater.TrappingRainWaterKt" />
+      <item itemvalue="JUnit.Tests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Tests" />
         <item itemvalue="Kotlin._41_60.trappingrainwater.TrappingRainWaterKt" />
         <item itemvalue="Kotlin._21_40._40_CombinationSumII.CombinationSumIIKt" />
         <item itemvalue="Kotlin.antEx4.AntEx4Kt" />
         <item itemvalue="Kotlin.antEx3.AntEx3Kt" />
-        <item itemvalue="Kotlin.antEx1.AntEx1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -358,13 +396,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547593198728</updated>
-    </task>
-    <task id="LOCAL-00008" summary="myAtoI">
-      <created>1548832303412</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1548832303412</updated>
     </task>
     <task id="LOCAL-00009" summary="palindromic number prob9">
       <created>1548911222361</created>
@@ -702,46 +733,53 @@
       <option name="project" value="LOCAL" />
       <updated>1557273300972</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="FirsMissingPositive">
+      <created>1558482173598</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1558482173599</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 22m 52s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 26m 10s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 28m 35s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 37m 12s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 38m 12s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 40m 26s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 42m 37s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 50m 05s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Tests_(2) - 2019.04.15 at 13h 58m 47s.xml">
       <configuration name="Tests (2)" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Tests_(2) - 2019.04.15 at 13h 59m 30s.xml">
       <configuration name="Tests (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Tests - 2019.05.22 at 15h 09m 57s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.22 at 15h 14m 44s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.22 at 15h 16m 22s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.22 at 15h 16m 25s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.22 at 15h 17m 31s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.22 at 15h 21m 04s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.22 at 15h 54m 01s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.22 at 16h 14m 39s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="890" y="1" width="1456" height="1394" extended-state="0" />
+    <frame x="40" y="23" width="1456" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1769341" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14780764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -750,15 +788,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35396826" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39845476" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35261044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39839357" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32931727" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.09637188" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32222223" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32208836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -869,27 +907,9 @@
     <SUITE FILE_PATH="coverage/Leet$antEx2_AntEx2Kt.ic" NAME="antEx2.AntEx2Kt Coverage Results" MODIFIED="1555466226745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CountandSay4.kt" />
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Iterator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/text/regex/Regex.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AntEx1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AntEx2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
+        <state relative-caret-position="720">
           <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
         </state>
       </provider>
@@ -1112,13 +1132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AntEx3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_21_40/_40_CombinationSumII/CombinationSumII.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -1133,16 +1146,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AntEx3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_41_60/_42_TrappingRainWater/TrappingRainWater.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_41_60/_41_FirstMissingPositive/FirstMissingPositive.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AntEx4.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="465">
           <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AntEx1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_1_20/_6_ZigZagConversion/ZigZag2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="315">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
@@ -1168,19 +1216,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_41_60/FirstMissingPositive.kt">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="406">
+          <caret line="206" column="25" selection-start-line="206" selection-start-column="25" selection-end-line="206" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_41_60/TrappingRainWater.kt">
+    <entry file="file://$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="339">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
           <folding>
-            <element signature="e#34#79#0" expanded="true" />
+            <element signature="e#36#89#0" expanded="true" />
           </folding>
         </state>
       </provider>

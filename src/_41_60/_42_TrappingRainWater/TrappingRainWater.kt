@@ -1,4 +1,4 @@
-package _41_60.trappingrainwater
+package _41_60._42_TrappingRainWater
 
 import kotlin.math.max
 import kotlin.math.min
