@@ -26,9 +26,10 @@ You must not use any built-in BigInteger library or convert the inputs to intege
 
 class Solution {
     fun multiply(num1: String, num2: String): String {
+
+        if (num1 == "0" || num2 == "0") return "0"
+
         val result = StringBuilder()
-        val n = num1.length
-        val m = num2.length
         val tempResult = mutableListOf<String>()
         var carry = 0
         for ((index,i) in num2.reversed().withIndex()){
@@ -44,12 +45,26 @@ class Solution {
             }
             if(carry != 0) result.append(carry)
             tempResult.add(result.toString())
-            result.clear()
+            result.setLength(0)
+            carry=0
         }
 
-        
+        for(i in 0 until tempResult.last().length){
+            var digit = 0
+            var tempsum = 0
+            for (temp in tempResult){
+                if (i < temp.length) {
+                    tempsum += temp[i].toInt() - 48
+                }
+            }
+            digit = (tempsum + carry) % 10
+            carry = (tempsum + carry) / 10
+            result.append(digit)
+        }
+        if (carry!=0) result.append(carry)
 
-        return tempResult[0].reversed().toString()
+
+        return result.reversed().toString()
     }
 }
 
@@ -69,6 +84,25 @@ class Tests {
         assertEquals("176",Solution().multiply("22","8"))
     }
 
+    @Test
+    fun multiply4(){
+        assertEquals("176",Solution().multiply("8","22"))
+    }
+
+    @Test
+    fun multiply5(){
+        assertEquals("56088",Solution().multiply("123","456"))
+    }
+
+    @Test
+    fun multiply6(){
+        assertEquals("4282869185670",Solution().multiply("12389765","345678"))
+    }
+
+    @Test
+    fun multiply7(){
+        assertEquals("0",Solution().multiply("9133","0"))
+    }
 
 
 }
