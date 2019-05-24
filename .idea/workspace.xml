@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a071a6-3db5-4b5a-b01c-61a17f7de9b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_41_60/_44_WildcardMatching/WildcardMatching.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/META-INF/Leet.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_41_60/FirstMissingPositive.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_41_60/_41_FirstMissingPositive/FirstMissingPositive.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_41_60/TrappingRainWater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_41_60/_42_TrappingRainWater/TrappingRainWater.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,22 +21,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_41_60/_42_TrappingRainWater/TrappingRainWater.kt">
+        <entry file="file://$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            <state relative-caret-position="210">
+              <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+              <folding>
+                <element signature="e#36#89#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt">
+        <entry file="file://$PROJECT_DIR$/src/_41_60/_44_WildcardMatching/WildcardMatching.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-              <folding>
-                <element signature="e#36#89#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="174">
+              <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/text/TypeAliases.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/kotlin/text/StringsKt.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="65" column="89" selection-start-line="65" selection-start-column="89" selection-end-line="65" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -49,24 +64,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="406">
               <caret line="206" column="25" selection-start-line="206" selection-start-column="25" selection-end-line="206" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_41_60/_41_FirstMissingPositive/FirstMissingPositive.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AntEx4.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -137,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/4sum.kt" />
         <option value="$PROJECT_DIR$/src/RemoveNthNodeFromListEnd.kt" />
         <option value="$PROJECT_DIR$/src/ValidParentheses.kt" />
         <option value="$PROJECT_DIR$/src/Merge2SortedList.kt" />
@@ -188,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/_41_60/_41_FirstMissingPositive/FirstMissingPositive.kt" />
         <option value="$PROJECT_DIR$/src/_41_60/_42_TrappingRainWater/TrappingRainWater.kt" />
         <option value="$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt" />
+        <option value="$PROJECT_DIR$/src/_41_60/_44_WildcardMatching/WildcardMatching.kt" />
       </list>
     </option>
   </component>
@@ -257,6 +254,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_41_60" type="462c0819:PsiDirectoryNode" />
               <item name="_43_MultiplyStrings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_41_60" type="462c0819:PsiDirectoryNode" />
+              <item name="_44_WildcardMatching" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,20 +400,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547593198728</updated>
-    </task>
-    <task id="LOCAL-00009" summary="palindromic number prob9">
-      <created>1548911222361</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1548911222361</updated>
-    </task>
-    <task id="LOCAL-00010" summary="RegularExpression">
-      <created>1548920477548</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1548920477548</updated>
     </task>
     <task id="LOCAL-00011" summary="RegularExpression">
       <created>1549005368494</created>
@@ -740,46 +730,60 @@
       <option name="project" value="LOCAL" />
       <updated>1558482173599</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="MultiplyString only n by 1">
+      <created>1558509783191</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1558509783192</updated>
+    </task>
+    <task id="LOCAL-00059" summary="MultiplyString">
+      <created>1558569298575</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1558569298575</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 58m 47s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_(2) - 2019.04.15 at 13h 59m 30s.xml">
-      <configuration name="Tests (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests - 2019.05.22 at 15h 09m 57s.xml">
+    <history-entry file="Tests - 2019.05.23 at 07h 52m 36s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.05.22 at 15h 14m 44s.xml">
+    <history-entry file="Tests - 2019.05.23 at 07h 56m 48s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.05.22 at 15h 16m 22s.xml">
+    <history-entry file="Tests - 2019.05.23 at 07h 57m 27s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.05.22 at 15h 16m 25s.xml">
+    <history-entry file="Tests - 2019.05.23 at 07h 59m 09s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.05.22 at 15h 17m 31s.xml">
+    <history-entry file="Tests - 2019.05.23 at 08h 37m 02s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.05.22 at 15h 21m 04s.xml">
+    <history-entry file="Tests - 2019.05.23 at 08h 37m 19s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.05.22 at 15h 54m 01s.xml">
+    <history-entry file="Tests - 2019.05.23 at 08h 39m 14s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests - 2019.05.22 at 16h 14m 39s.xml">
+    <history-entry file="Tests - 2019.05.23 at 08h 48m 49s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.23 at 08h 50m 56s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2019.05.23 at 08h 52m 12s.xml">
       <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1456" height="1337" extended-state="0" />
+    <frame x="39" y="23" width="1456" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14780764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14780764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -788,7 +792,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35261044" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35261044" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39839357" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -810,8 +814,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Valid Parentheses  when is great  &#10;lastOrNull also great." />
-    <MESSAGE value="Merge2SortedList." />
     <MESSAGE value="BackTracking......" />
     <MESSAGE value="reduce..." />
     <MESSAGE value="swap node....." />
@@ -835,7 +837,9 @@
     <MESSAGE value="CombinationSum   dfs   backtracking" />
     <MESSAGE value="rearrange package." />
     <MESSAGE value="FirsMissingPositive" />
-    <option name="LAST_COMMIT_MESSAGE" value="FirsMissingPositive" />
+    <MESSAGE value="MultiplyString only n by 1" />
+    <MESSAGE value="MultiplyString" />
+    <option name="LAST_COMMIT_MESSAGE" value="MultiplyString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -907,27 +911,6 @@
     <SUITE FILE_PATH="coverage/Leet$antEx2_AntEx2Kt.ic" NAME="antEx2.AntEx2Kt Coverage Results" MODIFIED="1555466226745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AntEx2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_21_40/_22_GenerateParentheses/GenerateParentheses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_1_20/_15_3Sum/3Sum.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_21_40/_37_SUdokuSolver/SudokuSolver.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
@@ -1223,13 +1206,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/kotlin/text/StringsKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="65" column="89" selection-start-line="65" selection-start-column="89" selection-end-line="65" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/text/TypeAliases.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_41_60/_43_MultiplyStrings/MultiplyStrings.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        <state relative-caret-position="210">
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
           <folding>
             <element signature="e#36#89#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_41_60/_44_WildcardMatching/WildcardMatching.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
         </state>
       </provider>
     </entry>
