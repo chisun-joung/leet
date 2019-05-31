@@ -1,4 +1,4 @@
-package _41_60._46_Permutations
+package _41_60._47_PermutationsII
 /*
 
 Given a collection of distinct integers, return all possible permutations.
@@ -27,7 +27,10 @@ class Solution {
                 for (i in 0..perm.size) {
                     val newPerm = perm.toMutableList()
                     newPerm.add(i, toInsert)
-                    perms.add(newPerm)
+                    if(!perms.contains(newPerm)) {
+                        perms.add(newPerm)
+                    }
+
                 }
             }
             return perms
@@ -37,7 +40,7 @@ class Solution {
 }
 
 fun main() {
-    val input = intArrayOf(1,1,3)
+    val input = intArrayOf(1,1,2)
     val perms = Solution().permute(input)
     for (perm in perms) println(perm)
 }
