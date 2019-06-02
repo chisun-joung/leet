@@ -1,19 +1,15 @@
 package _41_60._47_PermutationsII
 /*
-
-Given a collection of distinct integers, return all possible permutations.
+Given a collection of numbers that might contain duplicates, return all possible unique permutations.
 
 Example:
 
-Input: [1,2,3]
+Input: [1,1,2]
 Output:
 [
-[1,2,3],
-[1,3,2],
-[2,1,3],
-[2,3,1],
-[3,1,2],
-[3,2,1]
+  [1,1,2],
+  [1,2,1],
+  [2,1,1]
 ]*/
 
 
